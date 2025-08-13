@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiram-k" alt="abiram-k" /></a> </p>
 
-- 🔭 I’m currently working on [skillpulse-Ecommerse](skillpulse.abiram.website)
+- 🔭 I’m currently working on [vibe]
 
 - 🌱 I’m currently learning **Typescript,next js,DSA**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/abiram-k-711358248/**
 
-- 📄 Know about my experiences [Stillon Process](Stillon Process)
+- 📄 Know about my experiences: visit linkedIn
 
 - ⚡ fact **I think i am dedicated and keep work ethics, and also work hard**
 
