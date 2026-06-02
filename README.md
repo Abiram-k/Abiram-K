@@ -58,7 +58,7 @@
 
 **Infrastructure & Tools**
 
-`AWS` `GCP` `Azure` `Docker` `Nginx` `Git` `Figma`
+`AWS` `GCP` `Azure` `Docker` `Kubernetes` `Nginx` `Git` `Figma`
 
 **AI & Integrations**
 
