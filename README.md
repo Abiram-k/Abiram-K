@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Abiram 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer · India</strong><br/>
+  <strong>Fullstack Developer</strong><br/>
   Building with curiosity, shipping with craft
 </p>
 
@@ -32,8 +32,8 @@
 
 ### 🔭 What I'm building
 
-- **[Ajrasakha](https://github.com/Abiram-k)** — AI-first agri-tech platform at Annam.AI
-- **[Vibe](https://github.com/Abiram-k)** — AI-first e-learning platform with intelligent proctoring
+- **[Ajrasakha](http://chat.annam.ai)** — AI-first agri-tech platform at Annam.AI
+- **[Vibe](https://vibe.vicharanashala.ai)** — AI-first e-learning platform with intelligent proctoring
 
 ---
 
@@ -50,15 +50,15 @@
 
 **Frontend**
 
-`React` `Next.js` `TypeScript` `JavaScript` `Redux` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
+`React` `Next.js` `TypeScript` `JavaScript` 
 
 **Backend & Database**
 
-`Node.js` `Express` `MongoDB`
+`Node.js` `Express` `Nest.js` `MongoDB`
 
 **Infrastructure & Tools**
 
-`AWS` `Docker` `Nginx` `Git` `Figma`
+`AWS` `GCP` `Azure` `Docker` `Nginx` `Git` `Figma`
 
 **AI & Integrations**
 
