@@ -9,10 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=abiram-k&label=Profile%20views&color=534AB7&style=flat" alt="profile views" />
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abiram-k&theme=flat&no-frame=true&column=6" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abiram-k&theme=flat&no-frame=true&column=6&margin-w=10" alt="trophies" />
 </p>
 
 ---
@@ -62,14 +62,14 @@
 
 **AI & Integrations**
 
-`LLM APIs` `RAG Pipelines` `Agentic Workflows`
+`AI Integration` `LLM APIs`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiram-k&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=1D9E75" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abiram-k&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=1D9E75&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="left">
@@ -77,7 +77,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abiram-k&layout=compact&hide_border=true&title_color=534AB7" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiram-k&layout=compact&hide_border=true&title_color=534AB7&langs_count=8" alt="top languages" />
 </p>
 
 ---
